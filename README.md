@@ -1,1 +1,2 @@
-# samarth-ki-balls
+# synchronousBallMovement
+Ball moving synchronously
